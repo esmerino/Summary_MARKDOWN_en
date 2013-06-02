@@ -84,7 +84,7 @@ __
 
 We go [google.com](http://google.com) inline link.
 
-``
+```
 
 ## EMPHASIS
 
