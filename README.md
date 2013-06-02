@@ -89,6 +89,15 @@ _underscores_
 
 ```
 
+## IMAGENS
+
+```ruby
+
+# ![alt text](/path_form_images/image.jpg)
+
+# [alt text]: url/to/image
+
+```
 
 
 
