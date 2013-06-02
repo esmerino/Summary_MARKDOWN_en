@@ -66,3 +66,10 @@ __
 #```
 
 ```
+## HORIZONTAL RULES
+
+```ruby
+
+* * *
+
+```
