@@ -73,3 +73,12 @@ __
 * * *
 
 ```
+## SPAN ELEMENTS
+
+```ruby
+
+We go [google.com](http://google.com) inline link.
+
+``
+
+
