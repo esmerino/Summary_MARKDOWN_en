@@ -49,3 +49,20 @@ __
 3. Yellow
 
 ```
+## CODE BLOCKS
+
+```ruby
+
+#```ruby
+#
+#   p "ruby"
+#
+#```
+
+#```js
+#
+#   function(){console.lgo("javascrpt");}
+#
+#```
+
+```
