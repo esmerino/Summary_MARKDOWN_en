@@ -14,6 +14,7 @@ __
 ##### H5
 ###### H6
 ```
+
 ## BLOCKQUOTES
 
 ```ruby
@@ -29,6 +30,7 @@ __
 >
 > This is a blockquote
 ```
+
 ## LISTS
 
 ```ruby
@@ -49,6 +51,7 @@ __
 3. Yellow
 
 ```
+
 ## CODE BLOCKS
 
 ```ruby
@@ -66,6 +69,7 @@ __
 #```
 
 ```
+
 ## HORIZONTAL RULES
 
 ```ruby
@@ -73,6 +77,7 @@ __
 * * *
 
 ```
+
 ## SPAN ELEMENTS
 
 ```ruby
