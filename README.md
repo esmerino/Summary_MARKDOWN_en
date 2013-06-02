@@ -29,4 +29,23 @@ __
 >
 > This is a blockquote
 ```
+## LISTS
 
+```ruby
+* Red
+* Green
+* Yellow
+
++ Red
++ Green
++ Yellow
+
+- Red
+- Green
+- Yellow
+
+1. Red
+2. Green
+3. Yellow
+
+```
